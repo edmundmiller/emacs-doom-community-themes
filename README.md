@@ -66,6 +66,10 @@ To perform a manual installation you could:
 
 All contributions are welcome!
 
+This package is a collaborative effort from the Doom Emacs community. If you
+need some help, or would like to help, or just want to have a chat, please come
+and join us on the official Doom Emacs [discord server](https://discord.gg/bcZ6P3y)!
+
 
 [ar1a]: https://github.com/ar1a
 [JongW]: https://github.com/JongW
